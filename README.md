@@ -1,5 +1,4 @@
 # Trilha DevOps da 4Linux
-# TESTANDO
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 [![Build Status](https://travis-ci.com/cccarlassara/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/cccarlassara/DevOpsLab-HelloWorld)
